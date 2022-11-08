@@ -5,4 +5,4 @@ services:
      build: .
      hostname: proxy
      ports:
-       - '80:80'
+       - 80:80
