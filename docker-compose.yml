@@ -2,6 +2,6 @@ version: '3'
 services:
   proxy:
      build: .
-     hostname: proxyy
+     hostname: proxy
      ports:
        - 80:80
