@@ -1,7 +1,0 @@
-version: '3'
-services:
-  proxy:
-     build: .
-     hostname: proxy
-     ports:
-       - 80:80
